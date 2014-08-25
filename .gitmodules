@@ -1,0 +1,3 @@
+[submodule "Assets/ore"]
+	path = Assets/ore
+	url = https://github.com/fum1h1ro/ore.git
