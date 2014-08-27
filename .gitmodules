@@ -1,3 +1,6 @@
 [submodule "client/Assets/orelib"]
 	path = client/Assets/orelib
 	url = https://github.com/fum1h1ro/orelib.git
+[submodule "oretool"]
+	path = oretool
+	url = https://github.com/fum1h1ro/oretool.git
